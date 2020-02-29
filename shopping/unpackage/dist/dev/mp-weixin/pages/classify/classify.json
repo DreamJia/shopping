@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "分类",
+  "usingComponents": {
+    "wuc-tab": "/components/wuc-tab/wuc-tab",
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "ws-load-more": "/components/wsure-load-more/load-more"
+  }
+}

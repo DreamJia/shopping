@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "收货地址",
+  "usingComponents": {
+    "evan-switch": "/components/evan-switch/evan-switch"
+  }
+}

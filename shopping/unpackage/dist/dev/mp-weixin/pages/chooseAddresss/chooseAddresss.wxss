@@ -1,0 +1,117 @@
+
+.wrap.data-v-d966f780 {
+	width: 750rpx;
+	min-height: 100vh;
+	background: #efefef;
+	padding-top: 20rpx;
+}
+.default-icon.data-v-d966f780 {
+	display: inline-block;
+	width: 50rpx;
+	height: 40rpx;
+	line-height: 40rpx;
+	border-radius: 8rpx;
+	background-color: #d81e06;
+	color: #fff;
+	font-size: 20rpx;
+	text-align: center;
+	margin-left: 20rpx;
+}
+.address-list.data-v-d966f780 {
+	width: 700rpx;
+	margin: 0 auto 100rpx;
+}
+.list-item.data-v-d966f780 {
+	width: 700rpx;
+	padding: 20rpx 0;
+	background: #fff;
+	border-radius: 20rpx;
+	margin-bottom: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.item-top.data-v-d966f780 {
+	width: 620rpx;
+	box-sizing: border-box;
+	padding: 0 20rpx 20rpx 20rpx;
+}
+.item-edit.data-v-d966f780{
+	width: 80rpx;
+	height: 180rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.item-edit image.data-v-d966f780{
+	width: 40rpx;
+	height: 40rpx;
+}
+.item-phone.data-v-d966f780 {
+	height: 50rpx;
+	line-height: 50rpx;
+	font-size: 26rpx;
+	color: #111;
+}
+.item-address.data-v-d966f780 {
+	color: #111;
+	font-size: 26rpx;
+	height: 80rpx;
+	line-height: 40rpx;
+}
+.item-bottom.data-v-d966f780 {
+	width: 700rpx;
+	box-sizing: border-box;
+	padding: 25rpx 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.item-bottom-left.data-v-d966f780 {
+	width: 300rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.item-bottom-right.data-v-d966f780 {
+	width: 160rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.item-bottom-left text.data-v-d966f780,
+.item-bottom-right text.data-v-d966f780 {
+	color: #ccc;
+	margin-left: 20rpx;
+	font-size: 26rpx;
+}
+.item-bottom-right text.data-v-d966f780 {
+	text-decoration: underline;
+}
+.add-address.data-v-d966f780 {
+	width: 300rpx;
+	height: 70rpx;
+	background: #d81e06;
+	color: #fff;
+	border-radius: 35rpx;
+	line-height: 70rpx;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 28rpx;
+}
+

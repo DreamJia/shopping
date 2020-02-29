@@ -1,0 +1,108 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "春城配送"
+			}
+		}
+	    ,{
+            "path" : "pages/classify/classify",
+            "style" : {
+				"navigationBarTitleText": "分类"
+			}
+        },{
+            "path" : "pages/shopcar/shopcar",
+            "style" : {
+				"navigationBarTitleText": "购物车"
+			}
+        },{
+            "path" : "pages/mine/mine",
+            "style" : {
+				"navigationBarTitleText": "个人中心"
+			}
+        }
+        ,{
+            "path" : "pages/address/address",
+            "style" : {
+				"navigationBarTitleText": "收货地址"
+			}
+        }
+        ,{
+            "path" : "pages/addAddress/addAddress",
+            "style" : {
+				"navigationBarTitleText": "收货地址"
+			}
+        }
+        ,{
+            "path" : "pages/editAddress/editAddress",
+            "style" : {
+				"navigationBarTitleText": "收货地址"
+			}
+        }
+        ,{
+            "path" : "pages/detail/detail",
+            "style" : {
+				"navigationBarTitleText": "商品详情"
+			}
+        }
+        ,{
+            "path" : "pages/settlement/settlement",
+            "style" : {
+				"navigationBarTitleText": "结算"
+			}
+        }
+        ,{
+            "path" : "pages/chooseAddresss/chooseAddresss",
+            "style" : {
+				"navigationBarTitleText": "选择地址"
+			}
+        }
+        ,{
+            "path" : "pages/order/order",
+            "style" : {
+				"navigationBarTitleText": "我的订单"
+			}
+        }
+        ,{
+            "path" : "pages/orderDetail/orderDetail",
+            "style" : {
+				"navigationBarTitleText": "订单详情"
+			}
+        }
+    ],
+	"tabBar": {
+		"color":"#cccccc",
+		"selectedColor":"#d81e06",
+	    "list": [{
+	      "pagePath": "pages/index/index",
+	      "text": "首页",
+		  "iconPath":"static/img/index.png",
+		  "selectedIconPath":"static/img/index-show.png"
+	    }, {
+	      "pagePath": "pages/classify/classify",
+	      "text": "分类",
+		  "iconPath":"static/img/classify.png",
+		  "selectedIconPath":"static/img/classify-show.png"
+	    },
+		 {
+		  "pagePath": "pages/shopcar/shopcar",
+		  "text": "购物车",
+		  "iconPath":"static/img/shopcar.png",
+		  "selectedIconPath":"static/img/shopcar-show.png"
+		}
+		, {
+		  "pagePath": "pages/mine/mine",
+		  "text": "我",
+		  "iconPath":"static/img/mine.png",
+		  "selectedIconPath":"static/img/mine-show.png"
+		}
+		]
+	  },
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

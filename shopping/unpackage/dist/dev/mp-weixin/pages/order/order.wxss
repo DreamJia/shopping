@@ -1,0 +1,97 @@
+
+.wrap.data-v-44ab139e{
+	width: 750rpx;
+	min-height: 100vh;
+	background: #efefef;
+}
+.tab-list.data-v-44ab139e{
+	width: 750rpx;
+	height: 80rpx;
+	background: #fff;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	box-sizing: border-box;
+	padding: 0 20rpx;
+}
+.tab-item.data-v-44ab139e{
+	color: #333;
+	font-size: 26rpx;
+	height: 76rpx;
+	line-height: 76rpx;
+	box-sizing: border-box;
+	border-bottom: 4rpx solid #fff;
+}
+.active.data-v-44ab139e{
+	border-bottom: 4rpx solid #f00;
+	color: #f00;
+}
+.order-list.data-v-44ab139e{
+	width: 720rpx;
+	padding: 30rpx 15rpx;
+}
+.list-item.data-v-44ab139e{
+	width: 720rpx;
+	height: 200rpx;
+	background: #fff;
+	border-radius: 10rpx;
+	margin-bottom: 20rpx;
+	box-sizing: border-box;
+	padding: 10rpx;
+}
+.item-orderNumber.data-v-44ab139e{
+	width: 700rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	color: #666;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 28rpx;
+	border-bottom: 2rpx solid #ccc;
+}
+.item-price.data-v-44ab139e{
+	width: 700rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	font-size: 36rpx;
+	color: #f00;
+}
+.item-time.data-v-44ab139e{
+	width: 700rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	font-size: 24rpx;
+	color: #ccc;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.time-right.data-v-44ab139e{
+	width: 160rpx;
+	height: 44rpx;
+	border: 2rpx solid #ccc;
+	border-radius: 6rpx;
+	text-align: center;
+	line-height: 40rpx;
+	display: inline-block;
+}
+
